@@ -7,8 +7,14 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.30.3",
+    "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-penguin": "^1.3.4"
   },
-  "name": "hroussel"
+  "name": "hroussel",
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.5",
+    "@iconify-json/mdi": "^1.1.10"
+  }
 }
