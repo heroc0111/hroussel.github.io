@@ -21,7 +21,7 @@ drawings:
   persist: false
 ---
 
-# Welcome to Slidev
+# Welcome to Herve
 
 Presentation slides for developers
 
