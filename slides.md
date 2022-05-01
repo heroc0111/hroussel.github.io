@@ -56,26 +56,8 @@ You can have `style` tag in markdown to override the style for the current page.
 Learn more: https://sli.dev/guide/syntax#embedded-styles
 -->
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <SlideCurrentNo /> / <SlidesTotal />
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve · 2022
-      </div>
-   </div>
-</footer>
-
+<Nav />
+<Footer />
 
 <style>
 h1 {
@@ -103,31 +85,15 @@ h3 {
 |     |     |     |     |
 | --- | --- | --- | --- |
 | 2018-22 | CTO | Quod AI | Singapore 🇸🇬 |
-| 2016-now | Engineering Leadership Mentor (Part time) | Plato | San Fran, CA 🇺🇸 + Remote |
+| 2016-now | Engineering Leadership Mentor (Part time) | Plato | San Fran, CA 🇺🇸 & Remote |
 | 2016-18  | Head of Backend/Data Eng. & Software Architect | Sentifi | Zurich 🇨🇭 |
 | 2014-16  | CTO | TripFormi | Singapore 🇸🇬 |
 | 2013-13  | CTO | Astoria Road | Sunnyvale, CA 🇺🇸 |
 | 2008-13  | CTO | Linked Senior | Washington, DC 🇺🇸 |
 | 2006-08  | Senior Software Eng. then Eng. Manager | Broadcom | Herndon, VA 🇺🇸 |
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve · Apr '22 
-      </div>
-   </div>
-</footer>
+<Nav />
+<Footer />
 
 
 ---
@@ -151,28 +117,13 @@ GPA: 3.46
 
 Honors Scholar, President of ACM
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve | Apr 2022 
-      </div>
-   </div>
-</footer>
+<Nav />
+<Footer />
 
 <style>
-  header {
-    background: rgba(0, 0, 0, .7);
+  nav {
+    background: rgba(1, 1, 1, .7);
+    color: white;
   }
 </style>
 
@@ -183,24 +134,8 @@ Honors Scholar, President of ACM
 
 Coming soon
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve · Apr '22 
-      </div>
-   </div>
-</footer>
+<Nav />
+<Footer />
 
 
 ---
@@ -209,24 +144,8 @@ Coming soon
 
 Coming soon
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve · Apr '22 
-      </div>
-   </div>
-</footer>
+<Nav />
+<Footer />
 
 
 ---
@@ -237,24 +156,8 @@ preload: false
 
 Coming soon
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve · Apr '22 
-      </div>
-   </div>
-</footer>
+<Nav />
+<Footer />
 
 
 ---
@@ -263,21 +166,5 @@ Coming soon
 
 Coming soon
 
-<header class="absolute top-10 right-1 p-2 text-sm">
-   <div class="flex">
-      <div>
-         <span @click="$slidev.nav.prev" class="rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>&lt;-</kbd>
-         </span>
-         <span @click="$slidev.nav.next" class="px-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
-         <kbd>-></kbd>
-         </span>
-	   </div>
-   </div>
-</header>
-<footer class="absolute bottom-0 right-0 p-2 text-sm">
-   <div class="flex">
-      <div><img src="https://media-exp1.licdn.com/dms/image/C5103AQGHcJPuIycfRw/profile-displayphoto-shrink_800_800/0/1516328283789?e=1656547200&v=beta&t=jXGSUHftcX4UUlAco4ls2-sjGSKu5KU8e3ddj_JP5wU" height="15" class="inline" style="height: 16px; margin-bottom: 1px; margin-left: 1px;"> Herve · Apr '22 
-      </div>
-   </div>
-</footer>
+<Nav />
+<Footer />
