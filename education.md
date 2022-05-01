@@ -5,19 +5,19 @@ image: https://source.unsplash.com/1600x900/?university
 
 # Education
 
-## M. Eng. Computer Science
+### M. Eng. Computer Science
 
-Cornell University · *Ithaca, NY*
+**Cornell University** · Ithaca, NY
+<br/>
+<span class="text-sm">GPA: 3.0</span>
 
-GPA: 3.0
+### B.S. Computer Science
 
-## B.S. Computer Science
-
-George Washington University · *Washington, DC*
-
-GPA: 3.46
-
-Honors Scholar, President of ACM
+**George Washington University** · Washington, DC
+<br/>
+<span class="text-sm">GPA: 3.46</span>
+<br/>
+<span class="text-sm">Honors Scholar, President of ACM</span>
 
 <Nav />
 <Footer />

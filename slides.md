@@ -33,6 +33,9 @@ Hands on engineering leader with 15+ years of experience
     <div class="text-sm opacity-50">2022</div>
   </div>
 </div>
+<div class="abs-bl mx-95 my-0 flex text-xs">
+  <div>Built with Slidev, VueJS, Github actions</div>
+</div>
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
