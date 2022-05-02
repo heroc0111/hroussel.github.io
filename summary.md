@@ -5,7 +5,7 @@ title: Summary
 # Summary
 
 Herve is hands on engineering leader with 15+ years of experience.<br>
-Specialized in building high velocity teams in highly complex environments (AI, Big Data).
+Specialized in building high performing teams in complex environments.
 
 ### Recent achievements
 
