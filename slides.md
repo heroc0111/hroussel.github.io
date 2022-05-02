@@ -60,3 +60,7 @@ src: ./skills.md
 ---
 src: ./talks.md
 ---
+
+---
+src: ./media.md
+---

@@ -15,7 +15,7 @@ Specialized in building high velocity teams in highly complex environments (AI, 
 
 ### Learn more
 
-<Link to="3">💼 Work experience</Link> · <Link to="4">🎓 Education</Link> · <Link to="5">🥷 Skills</Link> · <Link to="6">👨‍🏫 Public talks</Link> · 🎙️ Blog/Podcast
+<Link to="3">💼 Work experience</Link> · <Link to="4">🎓 Education</Link> · <Link to="5">🥷 Skills</Link> · <Link to="6">👨‍🏫 Public talks</Link> · <Link to="7">🎙️ Blog/Podcast</Link>
 
 ### Links
 
