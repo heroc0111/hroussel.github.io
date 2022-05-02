@@ -9,14 +9,14 @@ title: Education
 ### M. Eng. Computer Science
 
 **Cornell University**<br/>
-<span class="accent-gray-500 text-sm">Ithaca, NY</span>
+<span class="accent-gray-500 text-sm"><mdi-map-marker /> Ithaca, NY</span>
 <br/>
 <span class="text-sm">GPA: 3.0</span>
 
 ### B.S. Computer Science
 
 **The George Washington University**<br/>
-<span class="accent-gray-500 text-sm">Washington, DC</span>
+<span class="accent-gray-500 text-sm"><mdi-map-marker /> Washington, DC</span>
 <br/>
 <span class="text-sm">GPA: 3.46</span>
 <br/>
