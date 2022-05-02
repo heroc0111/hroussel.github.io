@@ -19,7 +19,7 @@ Specialized in building high velocity teams in highly complex environments (AI, 
 
 ### Links
 
-<mdi-file-word-box /> [CV/resume](https://docs.google.com/document/d/1doolgTDhVDNESWl4VWkzOjjRvBbXM1CTxI0Y-dVHrvY/edit) <logos-linkedin-icon /> [LinkedIn](https://linkedin.com/in/hroussel) <logos-twitter /> [Twitter](https://linkedin.com/in/hroussel)
+<mdi-file-word-box class="text-blue-700"/> [CV/resume](https://docs.google.com/document/d/1doolgTDhVDNESWl4VWkzOjjRvBbXM1CTxI0Y-dVHrvY/edit) <logos-linkedin-icon /> [LinkedIn](https://linkedin.com/in/hroussel) <logos-twitter /> [Twitter](https://linkedin.com/in/hroussel)
 
 <!--
 You can have `style` tag in markdown to override the style for the current page.
