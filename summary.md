@@ -1,3 +1,7 @@
+---
+title: Summary
+---
+
 # Summary
 
 Herve is hands on engineering leader with 15+ years of experience.<br>
@@ -11,7 +15,7 @@ Specialized in building high velocity teams in highly complex environments (AI, 
 
 ### Learn more
 
-<Link to="3">💼 Work experience</Link> · <Link to="4">🎓 Education</Link> · <Link to="5">🥷 Skills</Link> · <Link to="6">🗣️ References</Link> · <Link to="7">👨‍🏫 Public talks</Link> · 🎙️ Blog/Podcast · <Link to="8">📰 Press</Link> 
+<Link to="3">💼 Work experience</Link> · <Link to="4">🎓 Education</Link> · <Link to="5">🥷 Skills</Link> · <Link to="6">👨‍🏫 Public talks</Link> · 🎙️ Blog/Podcast
 
 ### Links
 
@@ -26,18 +30,10 @@ Learn more: https://sli.dev/guide/syntax#embedded-styles
 <Footer />
 
 <style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
   
 h3 {
   margin-top: 1em;
   margin-bottom: .5em;
 }
 </style>
+

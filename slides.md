@@ -58,13 +58,5 @@ src: ./skills.md
 ---
 
 ---
-src: ./references.md
----
-
----
 src: ./talks.md
----
-
----
-src: ./press.md
 ---
