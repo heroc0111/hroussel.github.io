@@ -21,7 +21,8 @@ Hands on engineering leader with 15+ years of experience
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="bg-white bg-opacity-10 px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
     Press <kbd>-></kbd> for next slide
-  </span>
+  </span><br /><br />
+  <span>or, tap right side on mobile</span>
 </div>
 
 <div class="abs-bl mx-100 my-14 flex">
