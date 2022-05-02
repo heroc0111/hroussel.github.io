@@ -16,7 +16,7 @@ Selected talks
 
 ## Internal training
 * [Algorithm & Data Structure](https://docs.google.com/presentation/d/1ctTsLtCn6BmJp_IRFY4cYYpZ-kA4oIhosibF0Y-JZDE/edit?usp=drive_web&ouid=103581145333418174958)
-* [Database Systems (3 parts)](https://docs.google.com/presentation/d/1Ym8tB9uISEriyl6Dp-eoHQ180_RbJnglDsYY6lGvytk/edit?usp=drive_web&ouid=103581145333418174958)
+* [Database Systems in 3 parts](https://docs.google.com/presentation/d/1Ym8tB9uISEriyl6Dp-eoHQ180_RbJnglDsYY6lGvytk/edit?usp=drive_web&ouid=103581145333418174958)
 * [Clean Code](https://docs.google.com/presentation/d/15HPPD2qejg2IA6qwVMT1STs6Gr8NuZNN_A3EBFhtf3o/edit#slide=id.g104869c1fb9_0_83)
 
 <Nav />
