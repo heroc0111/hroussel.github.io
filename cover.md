@@ -18,6 +18,8 @@ title: Herve Roussel
 
 Hands on engineering leader with 15+ years of experience
 
+Cornell, IBM AI XPRIZE
+
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="bg-white bg-opacity-10 px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-20">
     Press <kbd>-></kbd> for next slide

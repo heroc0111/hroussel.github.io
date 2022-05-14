@@ -4,14 +4,12 @@ title: Summary
 
 # Summary
 
-Herve is hands on engineering leader with 15+ years of experience.<br>
-Specialized in building high performance teams in complex environments (Big Data, AI).
+Hands on engineering leader with 15+ years of experience<br>
+Specialized in building high performance teams in fast paced and complex environments (Big Data & AI)
 
-### Recent achievements
-
-- Architected and coded large scale systems (1B+ messages, 250M+ API calls per month).
-- Built, coached and led teams of 5-20 engineers from FAANG, Ivy League in US, SE Asia.
-- Achieved [rating of 9.0/10](https://www.platohq.com/mentors/herv-roussel) for coaching 25+ managers in the US and EU over 60+ sessions.
+- **Built scale**: architected and coded Big Data platform ingesting 1B+ messages and serving 250M+ API calls per month
+- **Built teams**: led, grew and coached teams of 5-20 engineers in USA and APAC from top tier engineering orgs (FAANG, Ivy League)
+- **Built leaders**: coached 25+ engineering managers in USA and Europe over 70+ sessions and achieved a rating of 9.0/10 
 
 ### Learn more
 
@@ -19,7 +17,7 @@ Specialized in building high performance teams in complex environments (Big Data
 
 ### Links
 
-<mdi-file-word-box class="text-blue-700"/> [CV/resume](https://docs.google.com/document/d/1doolgTDhVDNESWl4VWkzOjjRvBbXM1CTxI0Y-dVHrvY/edit) <logos-linkedin-icon /> [LinkedIn](https://linkedin.com/in/hroussel) <logos-twitter /> [Twitter](https://linkedin.com/in/hroussel)
+<mdi-file-word-box class="text-blue-700"/> [Resume](https://docs.google.com/document/d/1doolgTDhVDNESWl4VWkzOjjRvBbXM1CTxI0Y-dVHrvY/edit) <logos-linkedin-icon /> [LinkedIn](https://linkedin.com/in/hroussel) <logos-twitter /> [Twitter](https://linkedin.com/in/hroussel)
 
 <!--
 You can have `style` tag in markdown to override the style for the current page.
