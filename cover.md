@@ -16,7 +16,7 @@ title: Herve Roussel
 
 # Herve Roussel
 
-Hands on engineering leader with 15+ years of experience
+Leading high-performance engineering teams for 10+ years
 
 Cornell, IBM AI XPRIZE
 

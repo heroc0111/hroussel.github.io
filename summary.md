@@ -4,12 +4,14 @@ title: Summary
 
 # Summary
 
-Hands on engineering leader with 15+ years of experience<br>
+Hands on engineering leader with 10+ years of experience<br>
 Specialized in building high performance teams in fast paced and complex environments (Big Data & AI)
 
-- **Built scale**: architected and coded Big Data platform ingesting 1B+ messages and serving 250M+ API calls per month
-- **Built teams**: led, grew and coached teams of 5-20 engineers in USA and APAC from top tier engineering orgs (FAANG, Ivy League)
-- **Built leaders**: coached 25+ engineering managers in USA and Europe over 70+ sessions and achieved a rating of 9.0/10 
+# Achievements
+
+- **Scale**: 1B+ messages, 250M+ API calls per month
+- **Delivery**: accelerated teams of 5-20 engineers (US, ASEAN) 
+- **Mentorship**: rated 9/10 over 70+ mentoring sessions with eng. managers (US, EU)
 
 ### Learn more
 
